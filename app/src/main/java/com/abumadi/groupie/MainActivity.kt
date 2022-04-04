@@ -15,7 +15,6 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    //second
     private val excitingSection = Section()
 
     override fun onCreate(savedInstanceState: Bundle?) {
